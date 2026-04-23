@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Marcos Dario 👨‍💻</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Pleno | Node.js · React · C# · Delphi | ERP & PDV</strong>
+  <strong>Desenvolvedor Full Stack | Node.js · React · C# · Delphi | ERP & PDV</strong>
 </p>
 
 <p align="center">
